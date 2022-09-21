@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">valid email</string>
+    <string name="txtText">emailaddress</string>
+</resources>
